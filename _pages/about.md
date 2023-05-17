@@ -14,7 +14,7 @@ I am a PhD candidate in economics at Georgia State University.  I will be on the
 
 My research interests include health economics, public finance, and applied microeconomics.  I study the impact of public health insurance programs on health insurance access, health care utilization, and health care spending. 
 
-**Email:** balfrey1@gsu.edu
+**Email:** [balfrey1@gsu.edu](mailto:balfrey1@gsu.edu)
 
 [**Research**](https://brettalfrey.github.io/research/)
 
