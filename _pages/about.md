@@ -10,11 +10,12 @@ redirect_from:
 
 **Welcome to my website!**
 
-I am a PhD candidate in economics at Georgia State University.  I am an applied microeconomist with research interests in health economics and public finance. 
+I am a PhD candidate in economics at Georgia State University.  I will be on the 2023-2024 economics job market.
 
-A data-driven personal website
-======
+My research interests include health economics, public finance, and applied microeconomics.  I study the impact of public health insurance programs on health insurance access, health care utilization, and health care spending. 
 
-How to edit your site's GitHub repository
-------
+**Email:** balfrey1@gsu.edu
 
+[**Research**](https://brettalfrey.github.io/research/)
+
+[**CV**](../files/alfrey_cv.pdf)
