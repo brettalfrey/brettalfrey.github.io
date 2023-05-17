@@ -5,11 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Primary Instructor
+Primary Instructor
+---
 Georgia State University
 * Health Economics (Undergraduate) (1 semester)
 
-### Teaching Assistant
+Teaching Assistant
+---
 Georgia State University
 * Health Economics and Policy (Masters) (2 semesters)
 * Health Economics (Undergraduate) (1 semester)
