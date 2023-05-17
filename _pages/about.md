@@ -10,7 +10,7 @@ redirect_from:
 
 **Welcome to my website!**
 
-I am a PhD candidate in economics at Georgia State University.  I will be on the 2023-2024 economics job market.
+I am a Ph.D. candidate in economics at Georgia State University.  I will be on the 2023-2024 economics job market.
 
 My research interests include health economics, public finance, and applied microeconomics.  I study the impact of public health insurance programs on health insurance access, health care utilization, and health care spending. 
 
