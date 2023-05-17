@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Primary Instructor
+Instructor
 ---
 Georgia State University
 * Health Economics (Undergraduate) (1 semester)
