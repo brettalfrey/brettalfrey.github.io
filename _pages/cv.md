@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+Please click [here](https://brettalfrey.github.io/files/alfrey_cv.pdf) for a copy of my CV.
+
+<!--
 {% include base_path %}
 
 Education
@@ -57,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
