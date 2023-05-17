@@ -13,7 +13,7 @@ author_profile: true
    </details>
 
 ## Works in Progress
-1. How Did the Affordable Care Act Affect SSDI Beneficiaries Waiting for Medicare? A Look at Health Insurance Coverage, Medical Care Spending, and Medical Care Utilization (Job Market Paper)  
+1. How Did the Affordable Care Act Affect SSDI Beneficiaries Waiting for Medicare? A Look at Health Insurance Coverage, Medical Care Spending, and Medical Care Utilization (**Job Market Paper**)  
    <details><summary>Abstract</summary>
    The introduction of the Affordable Care Act ushered in significant changes to the U.S. health insurance landscape. One group that stood to benefit was Social Security Disability Insurance (SSDI) beneficiaries. SSDI beneficiaries can receive Medicare coverage, but they must wait two years after SSDI entitlement before coverage begins. During the two-year waiting period, SSDI beneficiaries must get health insurance from other sources.  An open question is whether SSDI beneficiaries have adequate options during the waiting period. With the health insurance expansions brought on by the Affordable Care Act, SSDI beneficiaries in the waiting period may have experienced increased health insurance access. In this study, I use difference-in-difference-in-differences estimation and data from the American Community Survey and the Medical Expenditure Panel Survey to understand the effects of the Affordable Care Act on this group. I expect individuals experienced increases in health insurance coverage, medical care utilization, and medical care spending. Preliminary descriptive evidence suggests large gains in health insurance coverage from both the Medicaid expansions and the individual market reforms.</p>
    </details>
