@@ -21,3 +21,4 @@ author_profile: true
    <details><summary>Abstract</summary>
    I investigate additional effects of the the Medicare Part D expansion on Medicare-eligible SSDI beneficiaries. I look more closely at effects on specific kinds of drugs, such as insulin, antidepressants, and cancer medications. Additionally, I look at the heterogeneous effects of the policy across this group based on the observables in the MEPS data. Lastly, I investigate the changes to prices of prescription drugs used by these individuals.
    </details>
+3. Comparing Sickle Cell Death Patterns (with Angela Snyder, James Marton, Mei Zhou, Sangeetha Lakshmanan, and Scarlette Shi)
